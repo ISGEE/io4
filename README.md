@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+# ISGEE Good Practice Suite 
+## Intro
 
 You can use the [editor on GitHub](https://github.com/thisistaimur/isgee.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
