@@ -1,6 +1,8 @@
+---
 layout: default
 title: Customization
-nav_order: 1
+nav_order: 4
+---
 
 # Test 1 
 ## Sample one 
