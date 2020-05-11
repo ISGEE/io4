@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Customization
-nav_order: 4
-has_toc: true
+nav_order: 3
 ---
 
 # Test 1 
