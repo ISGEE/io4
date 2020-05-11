@@ -4,14 +4,7 @@ title: Introduction
 nav_order: 3
 ---
 
-# Test 1 
-## Sample one 
-## Smaple two 
- ++ One
- ++ two
- ++ Three 
-
-# ISGEE Good Practice Suite 
+# ISGEE Good Practice Collection  
 ## Intro
 
 You can use the [editor on GitHub](https://github.com/thisistaimur/isgee.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
