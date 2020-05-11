@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Customization
+title: Methodology
 nav_order: 3
 ---
 
