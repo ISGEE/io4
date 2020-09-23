@@ -27,28 +27,34 @@ The logic for the selection of categories rubric can be described as:
 It is a valid assumption that no two serious games are the same. Each serious games will perform well in some of the categories listed above, but not all of them.  In order to evaluate which categories does a serious game perform better in, the evaluative categories, as outlined above, were further broken down into a 4-score ranking system. This ranking system reflects the different levels a serious game can be on. For example, a game can perform well in fidelity of tasks, but not so well in user choice. The ranking system allows for such a distinction.
 This four-score ranking system, along with the evaluative categories, is shown below in Table 2.
 
-Table 2.  All evaluative categories, broken down into their respective 4-score ranking system. Red (1) represents lowest, while Green (4) represents the highest score.
  
+![Table 2](https://github.com/thisistaimur/isgee/blob/master/assets%20/Picture1.png)
+
+**Table 2.**  _All evaluative categories, broken down into their respective 4-score ranking system. Red (1) represents lowest, while Green (4) represents the highest score._
 
 
-Rubric Logic: Cross-Category Weights
+## Rubric Logic: Cross-Category Weights
 
 Although the 4-score ranking system helps to rank serious games for individual categories, it fails to capture the cross-category relevance of the individual categories in comparison to the others. As an added dimension, individual evaluative categories were assigned with “weights”. The weights are in the shape of points. An evaluative category can either have a weight of 20 point or of 40 points. 
 The categories were assigned their respective weights as shown below in Table 3. 
 
-Table 3.  All evaluative categories, broken down into their weights.
-Evaluative Category	Weight
-Task Sequence	20
-Fidelity of Tasks	40
-Quality of instructions	40
-Instructor Involvement	20
-Learning Outcomes Outlined & Achieved	40
-User Choice	20
-Cooperation (team learning)	20
-Total	200
+
+|           Evaluative Category          | Weight |
+|:--------------------------------------:|:------:|
+|              Task sequence             |   20   |
+|            Fidelity of tasks           |   40   |
+| Quality of instructions                | 40     |
+|         Instructor involvement         |   20   |
+| Learning outcomes outlined & achieved  | 40     |
+| User choice                            | 20     |
+| Cooperation (team learning)            | 20     |
+| **Total**                                  | **200**    |
+
+**Table 3.**  All evaluative categories, broken down into their weights.
 
 
-Rubric Logic: Total Points
+
+## Rubric Logic: Total Points
 
 The weights and the 4-score ranking system for the evaluative categories are further represented as combined points (total points), allowing to assign a holistic score to individual serious games, and to compare multiple games based on their total points. 
 
