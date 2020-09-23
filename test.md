@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Methodology
-nav_order: 3
+nav_order: 1
 ---
 
 _“Serious games can be defined as computer-based learning simulations that engage players in realistic activities designed to increase knowledge, improve skills, and enable positive learning outcomes”_
