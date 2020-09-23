@@ -34,7 +34,7 @@ It is a valid assumption that no two serious games are the same. Each serious ga
 This four-score ranking system, along with the evaluative categories, is shown below in Table 2.
 
  
-![Table 2](assets/Picture1.png)
+![Table 2](https://cdn.statically.io/gh/thisistaimur/isgee/9289bad9/assets%20/Picture1.png)
 
 **Table 2.**  _All evaluative categories, broken down into their respective 4-score ranking system. Red (1) represents lowest, while Green (4) represents the highest score._
 
