@@ -7,40 +7,8 @@ nav_order: 1
 # ISGEE Good Practice Collection  
 ## Intro
 
-You can use the [editor on GitHub](https://github.com/thisistaimur/isgee.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Serious games have become an increasingly popular method for transforming educational content into an approachable and fun format. However, this transformation comes with the inherent assumption that players are motivated to learn simply because the content is housed inside a game. While this assumption is grounded in certain realities of today’s digital age, these assumptions are certainly not taking the whole picture into account.
+Although the interest in serious games in Higher Education Institutions has seen a spike recently, the games themselves are rarely designed on well-established learning theories as proposed by pedagogical researchers. This, often times, increases the risk of the games failing to meet their intended educational goals, ultimately yielding a player base who is entertained but who have not acquired new skills or knowledge. 
+We think that a quantitively assessing system of games will help bridge this imbalance between learning outcomes and entertainment. By assessing and ranking serious games based on best practices, we hope that this will spark the necessary debate on how much serious games actually help in delivering learning outcomes in HEI classroom environments.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thisistaimur/isgee.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-# Methodology
