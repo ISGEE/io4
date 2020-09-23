@@ -1,3 +1,9 @@
+---
+layout: default
+title: Methodology
+nav_order: 3
+---
+
 The next step towards a comprehensive review of best practices in existing serious games for Entrepreneurship Education included the creation and implementation of a quantified game review system.
 In order to achieve fair and valid quantifications, certain categories were selected that reflected best practices in serious games. The basis for the selection of these categories became the ISGEE Literature Review. 
 
