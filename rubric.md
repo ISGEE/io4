@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Methodology
+title: Rubric
 nav_order: 3
 ---
 
