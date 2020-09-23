@@ -13,19 +13,19 @@ The logic for the selection of categories rubric can be described as:
 
 1)	7 categories were chosen based on their relevance in the ISGEE literature review. These included,
 
-    a.	Task sequencing:  Describing the relevance of the order in which the game presents its tasks. Good learning outcomes in serious games (and in other situations) have shown   to depend on a relevant progression of tasks that build on each other, leading to better learning outcomes. A good task sequence can convey a lot of information in a short number of steps.
+ a.	Task sequencing:  Describing the relevance of the order in which the game presents its tasks. Good learning outcomes in serious games (and in other situations) have shown   to depend on a relevant progression of tasks that build on each other, leading to better learning outcomes. A good task sequence can convey a lot of information in a short number of steps.
    
-    b.	Fidelity of Tasks: Often time, tasks in classrooms are perceived as not relevant to real-life situations by students. Therefore, the fidelity (i.e. the degree of exactness) of tasks was also chosen as a relevant criteria for assessing serious games.
+ b.	Fidelity of Tasks: Often time, tasks in classrooms are perceived as not relevant to real-life situations by students. Therefore, the fidelity (i.e. the degree of exactness) of tasks was also chosen as a relevant criteria for assessing serious games.
    
-    c.	Quality of instructions: a good learning experience has to be guided by good learning objectives. To achieve these objectives, the player of the serious game should be provided with clear and complete instructions, where the player knows the direct outcome of the tasks and a roadmap on how to get there. 
+ c.	Quality of instructions: a good learning experience has to be guided by good learning objectives. To achieve these objectives, the player of the serious game should be provided with clear and complete instructions, where the player knows the direct outcome of the tasks and a roadmap on how to get there. 
     
-    d.	Instructor Involvement (feedback): Naturally, an instructor’s involvement in any educational activity contributes to the effective delivery of educational content. In serious games, the involvement of instructors can help the student to stay focused and increase their productivity due to the available support and feedback from the instructor. 
+ d.	Instructor Involvement (feedback): Naturally, an instructor’s involvement in any educational activity contributes to the effective delivery of educational content. In serious games, the involvement of instructors can help the student to stay focused and increase their productivity due to the available support and feedback from the instructor. 
     
-    e.	Learning Outcomes (Outlined & Achieved): As with classroom environments, serious games also need learning outcomes defined by the creators of the game. These learning outcomes should not only be defined but also be achieved through the course of the game. 
+ e.	Learning Outcomes (Outlined & Achieved): As with classroom environments, serious games also need learning outcomes defined by the creators of the game. These learning outcomes should not only be defined but also be achieved through the course of the game. 
     
-    f.	User Choice: Naturally, letting students/users have choices in the game allows for outcomes based on decision-making. User choices will create a distinction of the skilled users (depending on the task and the type of decision making). 
+ f.	User Choice: Naturally, letting students/users have choices in the game allows for outcomes based on decision-making. User choices will create a distinction of the skilled users (depending on the task and the type of decision making). 
     
-    g.	Cooperation (team learning): Research shows collaborative learning provides better learning effectiveness compared to individual learning .  Serious games provide an easy and effective environment for collaborative exercises, however the implementation can differ depending on the priorities of the serious game. 
+ g.	Cooperation (team learning): Research shows collaborative learning provides better learning effectiveness compared to individual learning .  Serious games provide an easy and effective environment for collaborative exercises, however the implementation can differ depending on the priorities of the serious game. 
 
 
 ## Rubric Logic: Ranking
