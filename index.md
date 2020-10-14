@@ -4,7 +4,7 @@ title: Introduction
 nav_order: 1
 ---
 
-# ISGEE Good Practice Collection  
+# ISGEE Good-Practice Collection  
 ## Motivation
 
 Serious games have become an increasingly popular method for transforming educational content into an approachable and fun format. However, this transformation comes with the inherent assumption that players are motivated to learn simply because the content is housed inside a game. While this assumption is grounded in certain realities of today’s digital age, these assumptions are certainly not taking the whole picture into account.
