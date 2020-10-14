@@ -4,14 +4,16 @@ title: Rubric
 nav_order: 3
 ---
 
+# The Rank & Weight Rubric
+
 The next step towards a comprehensive review of best practices in existing serious games for Entrepreneurship Education included the creation and implementation of a quantified game review system.
-In order to achieve fair and valid quantifications, certain categories were selected that reflected best practices in serious games. The basis for the selection of these categories became the ISGEE Literature Review. 
+In order to achieve fair and valid quantifications, certain variables were selected that reflected best practices in serious games. The basis for the selection of these variables became the ISGEE Literature Review. 
 
-## Rubric Logic: Categories
+## Rubric Logic: Variables
 
-The logic for the selection of categories rubric can be described as:
+The logic for the selection of Variables rubric can be described as:
 
-1)	7 categories were chosen based on their relevance in the ISGEE literature review. These included,
+1)	7 variables were chosen based on their relevance in the ISGEE literature review. These included,
 
  a.	Task sequencing:  Describing the relevance of the order in which the game presents its tasks. Good learning outcomes in serious games (and in other situations) have shown   to depend on a relevant progression of tasks that build on each other, leading to better learning outcomes. A good task sequence can convey a lot of information in a short number of steps.
    
@@ -30,22 +32,22 @@ The logic for the selection of categories rubric can be described as:
 
 ## Rubric Logic: Ranking
 
-It is a valid assumption that no two serious games are the same. Each serious games will perform well in some of the categories listed above, but not all of them.  In order to evaluate which categories does a serious game perform better in, the evaluative categories, as outlined above, were further broken down into a 4-score ranking system. This ranking system reflects the different levels a serious game can be on. For example, a game can perform well in fidelity of tasks, but not so well in user choice. The ranking system allows for such a distinction.
-This four-score ranking system, along with the evaluative categories, is shown below in Table 2.
+It is a valid assumption that no two serious games are the same. Each serious games will perform well in some of the variables listed above, but not all of them.  In order to evaluate which variable does a serious game perform better in, the evaluative variable, as outlined above, were further broken down into a 4-score ranking system. This ranking system reflects the different levels a serious game can be on. For example, a game can perform well in fidelity of tasks, but not so well in user choice. The ranking system allows for such a distinction.
+This four-score ranking system, along with the evaluative variables, is shown below in Table 2.
 
  
 ![Table 2](https://cdn.statically.io/gh/thisistaimur/isgee/9289bad9/assets%20/Picture1.png)
 
-**Table 2.**  _All evaluative categories, broken down into their respective 4-score ranking system. Red (1) represents lowest, while Green (4) represents the highest score._
+**Table 2.**  _All evaluative variables, broken down into their respective 4-score ranking system. Red (1) represents lowest, while Green (4) represents the highest score._
 
 
-## Rubric Logic: Cross-Category Weights
+## Rubric Logic: Cross-Variable Weights
 
-Although the 4-score ranking system helps to rank serious games for individual categories, it fails to capture the cross-category relevance of the individual categories in comparison to the others. As an added dimension, individual evaluative categories were assigned with “weights”. The weights are in the shape of points. An evaluative category can either have a weight of 20 point or of 40 points. 
-The categories were assigned their respective weights as shown below in Table 3. 
+Although the 4-score ranking system helps to rank serious games for individual variables, it fails to capture the cross-variable relevance of the individual variables in comparison to the others. As an added dimension, individual evaluative variables were assigned with “weights”. The weights are in the shape of points. An evaluative variables can either have a weight of 20 point or of 40 points. 
+The variables were assigned their respective weights as shown below in Table 3. 
 
 
-|           Evaluative Category          | Weight |
+|           Evaluative Variable          | Weight |
 |:--------------------------------------:|:------:|
 |              Task sequence             |   20   |
 |            Fidelity of tasks           |   40   |
@@ -56,13 +58,13 @@ The categories were assigned their respective weights as shown below in Table 3.
 | Cooperation (team learning)            | 20     |
 | **Total**                                  | **200**    |
 
-**Table 3.**  All evaluative categories, broken down into their weights.
+**Table 3.**  All evaluative variables, broken down into their weights.
 
 
 
 ## Rubric Logic: Total Points
 
-The weights and the 4-score ranking system for the evaluative categories are further represented as combined points (total points), allowing to assign a holistic score to individual serious games, and to compare multiple games based on their total points. 
+The weights and the 4-score ranking system for the evaluative variables are further represented as combined points (total points), allowing to assign a holistic score to individual serious games, and to compare multiple games based on their total points. 
 
 
 
