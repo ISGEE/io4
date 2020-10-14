@@ -6,6 +6,6 @@ has_children: true
 ---
 
 
-* Instructions
+# Instructions
 
-- Please click on the games in the Table of Contents below to see the review profile of each serious game
+- __Please click on the games in the Table of Contents below to see the review profile of each serious game__
