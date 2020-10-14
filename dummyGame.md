@@ -24,7 +24,7 @@ Fu en leuchtete du verwegene nachgehen la kindliche zierliche. Pa erschrak hinun
 ## Score: Weight
 
 
-|           Evaluative Variables           Weight |
+|           Evaluative Variables         |  Weight|
 |:--------------------------------------:|:------:|
 |              Task sequence             |   10   |
 |            Fidelity of tasks           |   30   |
