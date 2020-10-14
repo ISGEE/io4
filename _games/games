@@ -2,7 +2,7 @@
 collections:
   # Define a collection named "docs", its documents reside in the "_docs" directory
   Games:
-    permalink: "/docs/"
+    permalink: "/_games/"
     output: true
 
 just_the_docs:
