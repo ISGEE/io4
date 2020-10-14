@@ -8,4 +8,4 @@ has_children: true
 
 # Instructions
 
-- __Please click on the games in the Table of Contents below to see the review profile of each serious game__
+ __Please click on the games in the Table of Contents below to see the review profile of each serious game__
