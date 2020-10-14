@@ -22,16 +22,18 @@ Fu en leuchtete du verwegene nachgehen la kindliche zierliche. Pa erschrak hinun
 
 
 ## Score: Weight
-|           Evaluative Variables          | Weight |
+
+
+|           Evaluative Variables           Weight |
 |:--------------------------------------:|:------:|
 |              Task sequence             |   10   |
 |            Fidelity of tasks           |   30   |
-| Quality of instructions                | 20     |
+|           Quality of instructions      |   20   |
 |         Instructor involvement         |   10   |
-| Learning outcomes outlined & achieved  | 30     |
-| User choice                            | 20     |
-| Cooperation (team learning)            | 20     |
-| **Total**                                  | **140**    |
+|  Learning outcomes outlined & achieved |   30   |
+|               User choice              |   20   |
+|          Cooperation (team learning)   |   20   |
+| **Total**                              | **140**|
 
 
 
