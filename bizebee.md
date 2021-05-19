@@ -17,12 +17,16 @@ Social workers have to deal with many different problems such as parenting issue
 
 BIZ-E-BEE is designed based on a needs analysis conducted in six countries to (further) develop entrepreneurial skills. 80-85% of the respondents mentioned as main skills: taking initiative, innovative capacity, responsibility, confidence, communication skills and problem-solving skills. Followed closely by goal orientation, resilience, reliability and team building. Around these skills are assignments and exercises devised and incorporated into the game. Most of these skills are also mentioned in the Entrepreneurial Skills Pass. They also fit remarkably well with the profession of a social worker, although we see these not directly reflected in the Professional Social Work Code, published by the NVMW / BPSW.
 
-![Image of bizebee](assets/Biz-e-BEe.png | width=100)
+![Image of bizebee](assets/Biz-e-BEe.png)
 
 ## Score: Rank
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRQeSSNa-R2e3TA_gbRtNTG3-69Q0TsvFACQQct_vCGbwvci6NYCB5iWdA0Nlzw5RUHCZdxqINldR5G/pubchart?oid=1515523664&amp;format=interactive"></iframe>
 
+
+***All Evaluative Variables***
+
+![Image of bizebee](assets/bizebee-scr.png)
 
 ## Score: Weight
 
