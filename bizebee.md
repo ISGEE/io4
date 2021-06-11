@@ -23,24 +23,19 @@ BIZ-E-BEE is designed based on a needs analysis conducted in six countries to (f
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRQeSSNa-R2e3TA_gbRtNTG3-69Q0TsvFACQQct_vCGbwvci6NYCB5iWdA0Nlzw5RUHCZdxqINldR5G/pubchart?oid=1515523664&amp;format=interactive"></iframe>
 
-
-***All Evaluative Variables***
+**_All Evaluative Variables_**
 
 ![Image of bizebee](assets/bizebee-scr.png)
 
 ## Score: Weight
 
-
-|           Evaluative Variables         |  Weight|
-|:--------------------------------------:|:------:|
-|              Task sequence             |   10   |
-|            Fidelity of tasks           |   20   |
-|           Quality of instructions      |   20   |
-|         Instructor involvement         |    -   |
-|  Learning outcomes outlined & achieved |    -   |
-|               User choice              |   10   |
-|          Cooperation (team learning)   |    -   |
-| **Total**                              | **140**|
-
-
-
+|         Evaluative Variables          |  Weight  |
+| :-----------------------------------: | :------: |
+|             Task sequence             |   7.5    |
+|           Fidelity of tasks           |    10    |
+|        Quality of instructions        |    20    |
+|        Instructor involvement         |    -     |
+| Learning outcomes outlined & achieved |    -     |
+|              User choice              |    5     |
+|      Cooperation (team learning)      |    -     |
+|               **Total**               | **42.5** |
