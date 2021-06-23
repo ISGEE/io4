@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Submite a Game
-nav_order: 4
+nav_order: 3
 ---
 
 # Serious Game Submissions  
