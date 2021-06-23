@@ -8,26 +8,29 @@ grand_parent: Deutsch 🇩🇪
 
 # Startup Game
 
-#### Link to website: https://igrezadecu.com/hot-shot-business/
+#### Link zur Website: https://igrezadecu.com/hot-shot-business/
 
-## Summary
+## Zusammenfassung
 
-Originally released by Disney, Hot Shot Business (HBS) is a popular online game that simulates opening and running an enterprise.
-After picking a shop and naming it, use the Hot Shot Business tools to begin preparing for the grand opening. The user interface allows to set multiple parameters for this event.
-HBS also exposes the user to in-game financial management. Users start with 2500 dollars in their account, but also need 2000 more to achieve the first few targets. HBS lets the user decide to either loan this missing amount from a bank or take on an investor. The first option means they need to pay out a sum every month. However, if the user chooses to give away part of their business, they will also have to give away some of their profit.
-Next, it's time to decide on what products or services users offer in their store. Before making any purchase, HBS offers a way to see the needs of the business. This way the user can find out what their customers prefer and invest accordingly. Lastly, users start renting some machines or stands before selling their product.
+Das ursprünglich von Disney herausgegebene Hot Shot Business (HBS) ist ein beliebtes Online-Spiel, das die Eröffnung und Führung eines Unternehmens simuliert. 
 
-![Image of Simbiz](../assets/HBS.jpg)
+Nachdem Sie ein Geschäft ausgewählt und ihm einen Namen gegeben haben, beginnen Sie durch die Hot Shot Business-Tools mit den Vorbereitungen für die große Ladeneröffnung. Die Benutzeroberfläche erlaubt es, mehrere Parameter für dieses Ereignis einzustellen.
+HBS macht den Benutzer auch mit dem Thema Finanzmanagement im Spiel vertraut. Der Benutzer beginnt mit 2.500 Dollar auf seinem Konto, benötigt aber noch .2000 weitere, um die ersten Ziele zu erreichen. HBS lässt den Benutzer entscheiden, ob er sich den fehlenden Betrag von einer Bank leiht oder er Kontakt mit einem Investor aufnimmt. Die erste Option bedeutet, dass er jeden Monat eine Summe auszahlen muss. Entscheidet sich der Benutzer jedoch dafür, einen Teil seines Unternehmens abzugeben, muss er auch einen Teil seines Gewinns abgeben.
 
-## Score: Rank
+Als nächstes muss entschieden, welche Produkte oder Dienstleistungen der Benutzer in seinem Geschäft anbieten möchte. Bevor ein Kauf getätigt wird, bietet HBS eine Möglichkeit, spezielle Erfordernisse seiner Geschäftstätigkeiten einzusehen. Auf diese Weise kann der Benutzer beispielsweise herausfinden, was seine Kunden bevorzugen und dementsprechend zielführender investieren. Die Spieler müssen zudem erst die Anmietung von Geräten/Maschinen oder auch Ladeninventar abschließen, bevor sie dann irgendwann ihre Produkte verkaufen.
+
+
+![Image of HBS](../assets/HBS.jpg)
+
+## Ergebnis: Rank
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRQeSSNa-R2e3TA_gbRtNTG3-69Q0TsvFACQQct_vCGbwvci6NYCB5iWdA0Nlzw5RUHCZdxqINldR5G/pubchart?oid=1411411022&amp;format=interactive"></iframe>
 
-**_All Evaluative Variables_**
+**_Alle Bewertungsvariablen_**
 
 ![Image of bizebee](../assets/hbsscore.png)
 
-## Score: Weight
+## Ergebnis: Gewichtung
 
 |         Evaluative Variables          |  Weight  |
 | :-----------------------------------: | :------: |
@@ -39,3 +42,15 @@ Next, it's time to decide on what products or services users offer in their stor
 |              User choice              |   7.5    |
 |      Cooperation (team learning)      |    -     |
 |               **Total**               | **52.5** |
+
+
+| **Evaluative Variable**               | **Gewichtung** |
+| ------------------------------------- | ---------- |
+| Aufgabenreihenfolge                   | 10         |
+| Authentizität von Aufgaben            | 15         |
+| Qualität der Anweisungen              | 20         |
+| Einbeziehung Dozent*in                | \-         |
+| Lernergebnisse unternehmerischer Bildung | \-         |
+| Entscheidungsauswahl                  | 7,5        |
+| Kooperation                           | \-         |
+| **Total**                             | **52,5**   |

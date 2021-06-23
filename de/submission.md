@@ -5,8 +5,8 @@ nav_order: 3
 parent: Deutsch 🇩🇪
 ---
 
-# Serious Game Submissions  
+# Serious Game Einreichungen   
 
-If you are the creator of a serious game in the field of entrepreneurship education, or a user of one, please click on the submissions button below and fill out our form to submit your game. We want to keep this platform open to any serious game within the domain of entrepreneruship education and want to actively maintain a collection of good practices for future stakeholders to make use of. 
+Wenn Sie der Schöpfer eines Serious Games im Bereich der Entrepreneurship Education oder ein Nutzer eines solchen sind, klicken Sie bitte auf die Schaltfläche "Einreichen" unten und füllen Sie unser Formular aus, um Ihr Spiel einzureichen. Wir möchten diese Plattform für jedes Serious Game im Bereich der Entrepreneurship Education offen halten und aktiv eine Sammlung von Good Practices pflegen, auf die zukünftige Akteure zurückgreifen können. 
 
-[Submit Game](http://google.com/){: .btn .isgee-green }
+[Spiel einreichen](http://google.com/){: .btn .isgee-green }

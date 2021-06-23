@@ -8,9 +8,9 @@ grand_parent: Deutsch 🇩🇪
 
 # TeamUp
 
-#### Link to website: http://www.thebarngames.nl/teamup/teamup/index
+#### Link zur Website: http://www.thebarngames.nl/teamup/teamup/index
 
-## Summary
+## Zusammenfassung
 
 TeamUp ist ein Serious Game für Teamwork-Workshops. Teams von vier Spielern müssen zusammenarbeiten, um eine Reihe von Herausforderungen innerhalb des Spiels zu bewältigen. Diese Herausforderungen sind so gestaltet, dass sie die verschiedenen Elemente von effektiver Teamarbeit hervorheben.
 

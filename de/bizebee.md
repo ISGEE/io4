@@ -8,7 +8,7 @@ grand_parent: Deutsch 🇩🇪
 
 # Biz-E-Bee
 
-#### Link to game: http://sg4adults.eu
+#### Link zur Website: http://sg4adults.eu
 
 ## Zusammenfassung
 

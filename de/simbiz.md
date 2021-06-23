@@ -8,9 +8,9 @@ grand_parent: Deutsch 🇩🇪
 
 # SimBiz
 
-#### Link to website: http://www.enterprisegame.eu/index.php/en/enterprise-game
+#### Link zur Website: http://www.enterprisegame.eu/index.php/en/enterprise-game
 
-#### Link to game: http://game.simbiz.eu/accounts/signup/
+#### Link zur Spiel: http://game.simbiz.eu/accounts/signup/
 
 ## Zusammenfassung
 
