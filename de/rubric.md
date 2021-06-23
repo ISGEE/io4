@@ -5,13 +5,13 @@ nav_order: 3
 parent: Deutsch 🇩🇪
 ---
 
-# Die Entrepreneurship Serious Game-Rubric - Ein quantifiziertes Spielbewertungssystem::
+## Die Entrepreneurship Serious Game-Rubric - Ein quantifiziertes Spielbewertungssystem:
 
 Der nächste Schritt auf dem Weg zur Feststellung von „Good-Practices“, beinhaltete die Erstellung und Implementierung eines quantifizierten Spielbewertungssystems.
 Um faire und valide Quantifizierungen zu erreichen, wurde eine Reihe qualifizierender Variablen ausgewählt, die für die Feststellung von Best Practices bei Serious Games geeignet erschienen. Als Grundlage für die Auswahl dieser Variablen diente die ISGEE-Literaturreview, welche zu Beginn des Projekts umfassend vorgenommen wurde.
 
 
-# Logik der Bewertungssystems: Variablen
+### Logik der Bewertungssystems: Variablen
 
 Die Logik für die Auswahl der Variablen kann wie folgt beschrieben werden:
 
@@ -56,7 +56,7 @@ Abschließend werden die Bewertungen der betrachteten Serious Games in Form von 
 **Abbildung 1:** Beispiel-Netzdiagramm zur Bewertung eines Spiels der Good-Practice Sammlung.
 
 
-## Logik der Bewertungssystems: Variablen Gewichtung
+### Logik der Bewertungssystems: Variablen Gewichtung
 
 Obwohl das 4-Punkte-Bewertungssystem hilft, Serious Games bezüglicher ihrer Variablenausprägungen zu unterscheiden, erfasst es nicht die unterschiedliche Relevanz der einzelnen Variablen untereinander. Den einzelnen Variablen wurden, je nach ihrer Bedeutung die Evaluation, unterschiedlich sowie in Form von Punkten gewichtet. Eine Bewertungs-Variable kann entweder ein Gewicht von 10 Punkten oder von 20 Punkten haben. Die Gewichtungen wurden im Rahmen eines Experten-Panels des ISGEE Projektes diskutiert und festgelegt.
 
@@ -76,6 +76,6 @@ Die Gewichtung jeder Variablen sind der Tabelle 3 zu.
 
 **Tabelle 3.**  Alle Bewertungsvariablen, aufgeschlüsselt nach ihrer Gewichtung.
 
-## Logik der Bewertungssystems: Gesamtpunkte
+### Logik der Bewertungssystems: Gesamtpunkte
 
 Die Gewichtungen und das 4-Punkte-Rating für die Bewertungsvariablen werden nachfolgend immer kombiniert dargestellt (Gesamtpunktzahl). Hierdurch wird es ermöglicht jedem Serious Game einzeln eine Gesamtpunktzahl zuzuordnen sowie die Spiele anhand ihrer Gesamtpunktzahl untereinander zu vergleichen.  

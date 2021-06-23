@@ -5,13 +5,13 @@ nav_order: 3
 parent: English 🇬🇧
 ---
 
-# The Entrepreneurship Serious Game Rubric – A Quantified Game Review System:
+## The Entrepreneurship Serious Game Rubric – A Quantified Game Review System:
 
 The next step towards a comprehensive review of good practices in available serious games for Entrepreneurship Education included the creation and implementation of a quantified game review system.
 
 In order to achieve fair and valid quantifications, certain variables were selected that reflected best practices in serious games. The basis for the selection of these variables became the ISGEE Literature Review
 
-# Rubric Logic: Variables
+### Rubric Logic: Variables
 
 The logic for the selection of variables rubric can be described as:
 
@@ -52,7 +52,7 @@ Lastly, these rankings for serious games are visualized in the form of radar cha
 **Figure 1:** Sample Radar Chart for the rankings of a single serious game. 
 
 
-## Rubric Logic: Cross-Variable Weights
+### Rubric Logic: Cross-Variable Weights
 
 Although the 4-score ranking system helps to rank serious games for individual evaluative variables, it fails to capture the cross-variable relevance of the individual variables in comparison to the others. As an added dimension, individual evaluative variables were assigned with “weights”. The weights are in the shape of points. An evaluative variable can either have a weight of 10 point or of 20 points. These weights were discussed and decided upon within the context of project ISGEE.
 
@@ -72,6 +72,6 @@ The variables were assigned their respective weights as shown below in Table 3. 
 
 **Table 3.**  All evaluative variables, broken down into their weights.
 
-## Rubric Logic: Total Points
+### Rubric Logic: Total Points
 
 The weights and the 4-score ranking system for the evaluative variables are further represented as combined points (total points), allowing to assign a holistic score to individual serious games, and to compare multiple games based on their total points. 
