@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Biz-E-Bee_de
-nav_order: 4
+title: Biz-E-Bee
+nav_order: 3
 parent: Spiele
 ---
 

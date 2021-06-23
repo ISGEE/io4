@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Simbiz
-nav_order: 4
-parent: Spiele_de
+nav_order: 3
+parent: Spiele
 ---
 
 # SimBiz
