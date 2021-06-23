@@ -11,42 +11,52 @@ parent: Spiele
 
 #### Link to game: http://game.simbiz.eu/accounts/signup/
 
-## Summary
+## Zusammenfassung
 
-SimBiz is a new exciting enterprise game. It is specially designed to develop your international enterprise skills.
-SimBiz simulates real business activities – hence the name SimBiz – and presents you with realistic situations & events. By playing SimBiz you will learn & develop the key competences of an enterprising employee or entrepreneur.
-The game presents you with many choices to:
+SimBiz ist ein neues Unternehmensspiel, welches speziell zur Schulung internationaler unternehmerischer Fähigkeiten entwickelt wurde.
 
-- Rent offices: in your own country, later in other countriesHire personnel with specific skills
-- Choose different deals that will generate income and brand points
-- Place brand advertisements to expand your business
-- React to random events that will impact on your business
-- Compete with other players to try & be top of the SimBiz leaderboard
+SimBiz simuliert reale geschäftliche Aktivitäten (daher auch der Name SimBiz) und stellt den Spieler vor realistische Situationen und Ereignisse. Beim Spielen von SimBiz sollen sogenannte Schlüsselkompetenzen eines unternehmerisch denkenden Angestellten oder Unternehmers gezielt erlernt und entwickelt werden.
 
-SimBiz offers an insight into your ability to be flexible, self-motivated, reliable, committed to your work and proactive: the key competences essential to international entrepreneurship.
-A Handbook containing learning assignments accompanies the new game. Available in the five partnership languages, an international version of the handbook also encourages and allows individuals to play the enterprise game and compete against players from other countries.
+Das Spiel bietet dafür einige Möglichkeiten (Auswahl):
 
-Simbiz is a result of the Erasmus+ funded project “Entrepreneurship a Serious Game”.
+- Büros mieten: im eigenen Land, später in anderen Ländern
+
+- Personal mit spezifischen Fähigkeiten einstellen
+
+- Auswahl verschiedener Vertragsabschlüsse und Verhandlungsoptionen („Deals“); um Einkommen zu genieren und die eigene Marke weiterzuentwickeln
+
+- Schaltung von Markenwerbung, um mit der Geschäftstätigkeit zu expandieren
+
+- Möglichkeit unterschiedlich auf zufällige Ereignisse zu reagieren, mit direkter Auswirkung der Entscheidung(en) auf das laufende Geschäft 
+
+-  Möglichkeit gegen andere Spieler anzutreten sowie Darstellung der eigenen Leistung auf der allgemeinen SimBiz-Rangliste
+
+
+Das Spielen von SimBiz ermöglicht den Usern Rückschlüsse darüber zu ziehen, wie  flexibel, selbstmotiviert, zuverlässig, engagiert und proaktiv sie sind: Schlüsselkompetenzen, die für internationales Unternehmertum unerlässlich sind.
+
+Das Spiel wird durch Handbuch mit Lernaufträgen begleitet. Eine internationale Version des Handbuchs, ermöglicht es auch, gegen Spieler aus anderen Ländern anzutreten.
+
+Simbiz ist ein Ergebnis des Erasmus+ geförderten Projekts "Entrepreneurship a Serious Game".
 
 ![Image of Simbiz](../assets/Simbiz.jpg)
 
-## Score: Rank
+## Ergebnis: Rank
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRQeSSNa-R2e3TA_gbRtNTG3-69Q0TsvFACQQct_vCGbwvci6NYCB5iWdA0Nlzw5RUHCZdxqINldR5G/pubchart?oid=1028227620&amp;format=interactive"></iframe>
 
-**_All Evaluative Variables_**
+**_Alle Bewertungsvariablen_**
 
 ![Image of bizebee](../assets/simbizscore.png)
 
-## Score: Weight
+## Ergebnis: Gewichtung
 
-|         Evaluative Variables          | Weight |
-| :-----------------------------------: | :----: |
-|             Task sequence             |  7.5   |
-|           Fidelity of tasks           |   20   |
-|        Quality of instructions        |   5    |
-|        Instructor involvement         |   -    |
-| Learning outcomes outlined & achieved |   -    |
-|              User choice              |  7.5   |
-|      Cooperation (team learning)      |   -    |
-|               **Total**               | **40** |
+| **Evaluative Variable**               | **Gewichtung** |
+| ------------------------------------- | ---------- |
+| Aufgabenreihenfolge                   | 7,5        |
+| Authentizität von Aufgaben            | 20         |
+| Qualität der Anweisungen              | 5          |
+| Einbeziehung Dozent*in                | \-         |
+| Lernergebnisse unternehmerischer Bildung | \-         |
+| Entscheidungsauswahl                  | 7,5        |
+| Kooperation                           | \-         |
+| **Total**                             | **40**     |

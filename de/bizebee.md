@@ -9,7 +9,7 @@ parent: Spiele
 
 #### Link to game: http://sg4adults.eu
 
-## Summary
+## Zusammenfassung
 
 Das Erasmus+ geförderte Projekt SG4Adults hat ein Serious Game zur Schulung unternehmerischer Fähigkeiten entwickelt: BIZ-E-BEE. In den Niederlanden wurde das Spiel unter Studierende eines Bachelor-Studiengangs für Soziale Arbeit getestet, da unternehmerisches Denken und Handeln sowohl für ihr zukünftiges Studium als auch ihre Arbeit relevant ist.
 
