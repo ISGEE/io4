@@ -17,7 +17,7 @@ TeamUp is developed to support trainers. Although the experiences from the game 
 
 Additionally, the game tracks all player actions to provide the trainer with very detailed reports on all of the players. This way the trainer can look up specific statistics such as the number of avoidable mistakes made by a specific group. Furthermore the trainer can use the debriefing tools to go back to specific moments of gameplay to discuss a team's thought process at that specific point in time.
 
-![Image of Simbiz](assets/teamup.jpg)
+![Image of Simbiz](../assets/teamup.jpg)
 
 ## Score: Rank
 

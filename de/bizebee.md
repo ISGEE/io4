@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Biz-E-Bee
-nav_order: 3
+nav_order: 4
 parent: Serious Games
 ---
 

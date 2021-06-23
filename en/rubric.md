@@ -2,6 +2,7 @@
 layout: default
 title: Rubric
 nav_order: 3
+parent: English 🇬🇧
 ---
 
 # The Entrepreneurship Serious Game Rubric – A Quantified Game Review System:
@@ -40,13 +41,13 @@ It is a valid assumption that no two serious games are the same. Each serious ga
 Furthermore, the categorical variables do not have this 4-score ranking since these variables only indicate if a game fulfills the category in a simple “yes/no” system.
 This 4-score ranking system, along with the evaluative variables, is shown below in Table 2.
 
-![Image of Rubric](assets/rubric.png)
+![Image of Rubric](..//assets/rubric.png)
 
 **Table 2.**  All evaluative and categorical variables, broken down into their respective 4-score ranking system or “yes/no”. Red (1) represents lowest, while Green (4) represents the highest score.
 
 Lastly, these rankings for serious games are visualized in the form of radar charts. Figure 1 below represents a sample radar chart for the rankings of a single serious game.
 
-![Image of Radar Chart](assets/radar.png)
+![Image of Radar Chart](../assets/radar.png)
 
 **Figure 1:** Sample Radar Chart for the rankings of a single serious game. 
 

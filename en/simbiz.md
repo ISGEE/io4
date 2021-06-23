@@ -28,7 +28,7 @@ A Handbook containing learning assignments accompanies the new game. Available i
 
 Simbiz is a result of the Erasmus+ funded project “Entrepreneurship a Serious Game”.
 
-![Image of Simbiz](assets/Simbiz.jpg)
+![Image of Simbiz](../assets/Simbiz.jpg)
 
 ## Score: Rank
 
@@ -36,7 +36,7 @@ Simbiz is a result of the Erasmus+ funded project “Entrepreneurship a Serious 
 
 **_All Evaluative Variables_**
 
-![Image of bizebee](assets/simbizscore.png)
+![Image of bizebee](../assets/simbizscore.png)
 
 ## Score: Weight
 

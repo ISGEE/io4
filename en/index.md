@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Deutsch 🇩🇪
+title: English 🇬🇧
 nav_order: 2
 has_children: true
 ---

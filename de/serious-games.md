@@ -3,7 +3,7 @@ layout: default
 title: Serious Games
 nav_order: 3
 has_children: true
-parent: English 🇬🇧
+parent: Deutsch 🇩🇪
 ---
 
 
