@@ -1,42 +1,40 @@
 ---
 layout: default
-title: Introduction
+title: Einführung in ISGEE
 nav_order: 2
 parent: Deutsch 🇩🇪
 ---
 
 # ISGEE Good-Practice Collection
 
-## Introduction to ISGEE
+## Einführung in ISGEE
 
-### What is ISGEE?
+### Worum geht es bei ISGEE?
 
-The project “Implementing Serious Games in Entrepreneurship Education” (ISGEE) is a so-called Erasmus+ Strategic Partnership project. The objective of ISGEE is to foster the development of entrepreneurship and digital competences in Higher Education. The consortium behind ISGEE does so by developing a serious game application, titled Entrepoly. Entrepoly is an open access, modularly structured digital serious game with dynamically adjustable content as to match specific educational requirements to individual classroom requirements. In its essence, Entrepoly is a role-playing game (RPG) that consists of different modules and tasks relevant for digitally based entrepreneurial learning in Higher Education Institutions (HEI) classroom environments.
+Das Projekt "Implementing Serious Games in Entrepreneurship Education" (ISGEE) ist ein Erasmus+ gefördertes Vorhaben. Das Ziel von ISGEE ist es, unternehmerisches Denken und Handeln sowie die Entwicklung digitaler Kompetenzen in der Hochschulbildung zu fördern. Das Konsortium hinter ISGEE hat dieses Ziel über die Entwicklung einer Serious-Game-Anwendung mit dem Namen „Entrepoly“ realisiert. Entrepoly ist ein frei zugängliches, modular aufgebautes Online Serious Game mit dynamisch anpassbarem Inhalt, damit spezifische Lehr- und Lernanforderungen bedarfsgerecht berücksichtigt werden können. Entrepoly ist zudem ein Rollenspiel („RPG“), das aus verschiedenen Modulen und Aufgaben besteht, die für das digital basierte unternehmerische Lernen relevant sind.
 
-### Who works on ISGEE?
+### Wer wirkt am ISGEE-Projekt mit?
 
-The consortium of ISGEE is constituted by the University of Szeged (lead partner), Univations GmbH, West University of Timișoara, Expertissa Timișoara, Technical University of Ostrava, & STUCOM. It is funded by the Erasmus+ programme of the European Commission to increase collaboration between educational institutions in the European Union and to find innovative solutions for joint challenges in education. ISGEE started in September 2019 and will be terminated in September 2021.
+Das Konsortium von ISGEE besteht aus der Universität Szeged (Ungarn, Projektleitung), Univations GmbH (Deutschland), West University of Timișoara (Rumänien), Expertissa Timișoara (Rumänien), Technische Universität Ostrava (Tschechische Republik) und STUCOM (Spanien). Es wird durch das Erasmus+ Programm finanziert, um die Zusammenarbeit zwischen Bildungseinrichtungen in der Europäischen Union zu stärken und innovative Lösungen für gemeinsame Herausforderungen in der Bildung zu finden. ISGEE hat eine Laufzeit von 3 Jahren (Start: September 2019)
 
-### Aim of the Project
+### Ziel des Projekts
 
-The aim of the ISGEE project is:
+Das Ziel des ISGEE-Projekts ist die Entwicklung unternehmerischer und digitaler Kompetenzen mit Hilfe des online Serious Game „Entrepoly“ zu fördern. Um eine niedrigschwellige Verwendung von Entrepoly (1) zu ermöglichen, wurden zudem folgende Begleitmaterialien erstellt: 
+1. ein Handbuch, welches erklärt, wie inhaltliche Anpassungen bei Entrepoly vorgenommen werden können (2)
+2. ein Lehrleitfaden 
+3. eine Good-Practice Sammlung von Online-Spielen zur Unterstützung unternehmerischer Bildungs- Aktivitäten
 
-1. to develop entrepreneurship and digital competences with a digital serious game, called Entrepoly (1), that arrives with
-2. a supporting adaptation handbook,
-3. a teaching toolkit and also
-4. a selected good serious games practices for entrepreneurship education (4).
+ISGEE entspricht dabei den Empfehlungen des Europäischen Digital Competence Framework for Educators (DigiCompEdu), in dem es Folgendes forciert:
+-	Die Erstellung neuer digitaler Bildungsressourcen voranzutreiben: Entrepoly ist ein frei zugängliches innovatives digitales Serious Game (1)
+-	Digitale (Lern-)Inhalte zu generieren und sie für Lernende und Lehrende verfügbar zu machen: Handbuch zur Spielanpassung (2) und Lehrleitfaden (3) für Dozent*innen
+-	Digitale Ressourcen für das Lehren und Lernen zu identifizieren, zu bewerten und auszuwählen: eine Good-Practice-Sammlung von Online-Spielen des Bereichs Unternehmerische Bildung (4)
 
-ISGEE fits DigiCompEdu’s recommendation fostering the following activities:
 
-To create or co-create new digital educational resources: an open access innovative digital serious game (1)
+## Good-Practice-Sammlung
 
-To organize digital content and make it available to learners and educators: game adaptation handbook (2) and gamification teaching toolkit (3) for lecturers
+### Motivation:
 
-To identify, assess and select digital resources for teaching and learning: a good practice suite for educational implementations (4)
+Serious Games werden immer beliebter, um komplexere Bildungsinhalte in ein einfach zugängliches und unterhaltsames Format zu transformieren. Diese Transformation setzt die Annahme voraus, dass die Nutzer zum Lernen motiviert sind, weil der Inhalt in einem Spiel untergebracht ist. Obwohl diese Annahme vor dem Hintergrund des digitalen Zeitalters durchaus  plausibel erscheint, ist sie natürlich dennoch zu undifferenziert. Obwohl das Interesse an Serious Games an Hochschulen in letzter Zeit stark zugenommen hat, werden solche Spiele – anders als von Pädagogen vorgeschlagen - selten auf  Grundlage etablierter Lerntheorien konzipiert. Hierdurch erhöht sich das Risiko, dass die Spiele ihre beabsichtigten Bildungsziele nicht erreichen und letztlich eine Spielerschaft hervorbringen, die zwar unterhalten wird, aber keine neuen Fähigkeiten oder Kenntnisse erwirbt.
 
-## Motivation
+Wir denken, dass ein quantitatives Bewertungssystem für (Serious) Games helfen kann, dieses Ungleichgewicht zwischen Lernergebnissen und Unterhaltung zu überbrücken. Indem wir Serious Games auf der Grundlage „Guter Praktiken“ bewerten und ein Ranking erstellen, hoffen wir einen kleinen Beitrag zur Debatte, ob Serious Games tatsächlich dazu geeignet sind Lernergebnisse im Hochschulunterricht hervorzubringen, zu leisten.
 
-Serious games have become an increasingly popular method for transforming educational content into an approachable and fun format. However, this transformation comes with the inherent assumption that players are motivated to learn simply because the content is housed inside a game. While this assumption is grounded in certain realities of today’s digital age, these assumptions are certainly not taking the whole picture into account.
-Although the interest in serious games in HEIs has seen a spike recently, the games themselves are rarely designed on well-established learning theories as proposed by pedagogical researchers. This, often times, increases the risk of the games failing to meet their intended educational goals, ultimately yielding a player base who is entertained but who have not acquired new skills or knowledge.
-
-We think that a quantitative assessment system of (serious) games will help bridge this imbalance between learning outcomes and entertainment. By assessing and ranking serious games based on best practices, we hope that this will spark the necessary debate on how much serious games actually help in delivering learning outcomes in HEI classroom environments.

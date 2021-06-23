@@ -2,7 +2,7 @@
 layout: default
 title: Simbiz
 nav_order: 4
-parent: Serious Games
+parent: Spiele
 ---
 
 # SimBiz

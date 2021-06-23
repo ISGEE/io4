@@ -5,73 +5,77 @@ nav_order: 3
 parent: Deutsch 🇩🇪
 ---
 
-# The Entrepreneurship Serious Game Rubric – A Quantified Game Review System:
+# Die Entrepreneurship Serious Game-Rubric - Ein quantifiziertes Spielbewertungssystem::
 
-The next step towards a comprehensive review of good practices in available serious games for Entrepreneurship Education included the creation and implementation of a quantified game review system.
+Der nächste Schritt auf dem Weg zur Feststellung von „Good-Practices“, beinhaltete die Erstellung und Implementierung eines quantifizierten Spielbewertungssystems.
+Um faire und valide Quantifizierungen zu erreichen, wurde eine Reihe qualifizierender Variablen ausgewählt, die für die Feststellung von Best Practices bei Serious Games geeignet erschienen. Als Grundlage für die Auswahl dieser Variablen diente die ISGEE-Literaturreview, welche zu Beginn des Projekts umfassend vorgenommen wurde.
 
-In order to achieve fair and valid quantifications, certain variables were selected that reflected best practices in serious games. The basis for the selection of these variables became the ISGEE Literature Review
 
-# Rubric Logic: Variables
+# Logik der Bewertungssystems: Variablen
 
-The logic for the selection of variables rubric can be described as:
+Die Logik für die Auswahl der Variablen kann wie folgt beschrieben werden:
 
-7 variables were chosen based on their relevance in the ISGEE literature review. These variables were then further divided between;
-1. Evaluative variables: variables that can be scored 
-2. Categorical variables: characterization of variable in a “yes/no” format. 
+Es wurden 7 Variablen aufgrund ihrer Relevanz im ISGEE-Literaturreview ausgewählt. Diese Variablen wurden dann weiter aufgeteilt in;
 
-The variables are:
-a.	**Task sequencing (evaluative):** Describing the relevance of the order in which the game presents its tasks. Good learning outcomes in serious games (and in other situations) have shown  to depend on a relevant progression of tasks that build on each other, leading to better learning outcomes. A good task sequence can convey a lot of information in a short number of steps.
+1. Evaluationsvariablen: Jene Spielfaktoren die qualitativ bewertet werden können 
 
-b.	**Fidelity of tasks (evaluative)**: Often time, tasks in classrooms are perceived as not relevant to real-life situations by students. Therefore, the fidelity (i.e. the degree of exactness) of tasks was also chosen as a relevant criteria for assessing serious games.
+2. Kategoriale Variablen: Dichotome Spielfaktoren, die nur per "Ja/Nein"-Feststellung  betrachtet werden können
 
-c.	**Quality of instructions (evaluative)**: a good learning experience has to be guided by good learning objectives. To achieve these objectives, the player of the serious game should be provided with clear and complete instructions, where the player knows the direct outcome of the tasks and a roadmap on how to get there.
 
-d.	**Instructor involvement (feedback)(categorical)**: Naturally, an instructor’s involvement in any educational activity contributes to the effective delivery of educational content. In serious games, the involvement of instructors can help the student to stay focused and increase their productivity due to the available support and feedback from the instructor.
+Die Variablen sind:
+a.	**Aufgabenreihenfolge (qualitativ)** Beschreibt die Güte der Reihenfolge, in der das Spiel seine Aufgaben präsentiert. Gute Lernergebnisse in Serious Games (und in anderen Situationen) hängen auch von der Art der Aufgaben-Abfolge ab. Logisch aufeinander aufbauende Aufgaben können Informationen über eine kurze Anzahl von Schritten zielführend und somit besser vermitteln.
 
-e.	**Entrepreneurial Learning outcomes (Outlined & Achieved)**: As with classroom environments, serious games also need learning outcomes defined by the creators of the game. These learning outcomes should not only be defined but also be achieved through the course of the game.
+b.	**Authentizität von Aufgaben (qualitativ)**: Oftmals werden Aufgaben im Unterricht als nicht relevant erachtet, da sie keinen Bezug zu realen Situationen oder Kontexten aufweisen. Daher wurde auch die Authentizität von Aufgaben (d.h. in welchem Maße sie in die Realität übertragen werden könnten) als ein relevantes Kriterium für die Bewertung von Serious Games gewählt.
 
-f.	**User choice (evaluative)**: Naturally, letting students/users have choices in the game allows for outcomes based on decision-making. User choices will create a distinction of the skilled users (depending on the task and the type of decision making). 
+c.	**Qualität der Anweisungen (qualitativ)**: Eine gute Lernerfahrung muss von guten Lernzielen geleitet sein. Um dies zu gewährleisten, sollten dem Spieler des Serious Games klare und vollständige Anweisungen zur Verfügung gestellt werden, anhand derer der Spieler die direkten Zielstellungen der Aufgabe(n) erfassen und eine Vorgehensweise zur Aufgabenbearbeitung ableiten kann.
 
-g.	**Cooperation (team learning) (categorical)**: Research shows collaborative learning provides better learning effectiveness compared to individual learning . Serious games provide an easy and effective environment for collaborative exercises. However, the implementation can differ depending on the priorities of the serious game.
+d.	**Einbeziehung Dozent*in ("Feedbackverfügbarkeit";"dichotom")** : Natürlich trägt die Beteiligung des/der Dozent/in an jeder Bildungsaktivität zur effektiven Vermittlung von Wissensvermittlung bei. Bei Serious Games kann die Einbindung des/der Dozent/in die (Lern-)Effizienz unmittelbar steigern (u.a. durch direkt Feedbackmöglichkeit sowie erhöhten Konzentration bei Anwesenheit von Dozent/in)
 
-## Rubric Logic: Ranking
+e.	**Lernergebnisse unternehmerischer Bildung(skizziert; dichotom)**: Analog zur Konzeption von Lehrveranstaltungen müssen bei Serious Games Lernergebnisse ebenfalls von den Entwicklern des Spiels definiert werden. Diese Lernergebnisse sollten nicht nur definiert, sondern auch durch den Ablauf des Spiels erreicht werden können.
 
-It is a valid assumption that no two serious games are the same. Each serious games will perform well in some of the variables listed above, but not all of them. In order to evaluate which variable does a serious game perform better in, the evaluative variables, as outlined above, were further broken down into a 4-score ranking system. This ranking system reflects the different levels a serious game can be on. For example, a game can perform well in fidelity of tasks, but not so well in user choice. The ranking system allows for such a distinction.
+f.	**Entscheidungsauswahl (qualitativ)**: Wenn man den Spielern im Spiel die Möglichkeit gibt Entscheidungen zu treffen, erzielen sie natürlich auch Lernergebnisse in Abhängigkeit ihrer jeweiligen Entscheidung. Über die Notwendigkeit zur Entscheidungswahl wird zudem die Einschätzung bzgl. der Fertigkeiten des Spielers ermöglicht (abhängig von der Aufgabe, der Art der Entscheidungsfindung sowie der getroffenen Entscheidung).
 
-Furthermore, the categorical variables do not have this 4-score ranking since these variables only indicate if a game fulfills the category in a simple “yes/no” system.
-This 4-score ranking system, along with the evaluative variables, is shown below in Table 2.
+g.	**Kooperation (Lernen im Team; dichotom)**: Wissenschaftliche Studien zeigen , dass kollaboratives Lernen eine bessere Lerneffektivität im Vergleich zum individuellen Lernen bietet. Serious Games bieten eine einfache und effektive Umgebung für kollaborative Übungen. Die Umsetzung kann jedoch je nach den Prioritäten des Serious Games unterschiedlich sein.
 
-![Image of Rubric](..//assets/rubric.png)
+## Logik der Bewertungssystems: Ranking
 
-**Table 2.**  All evaluative and categorical variables, broken down into their respective 4-score ranking system or “yes/no”. Red (1) represents lowest, while Green (4) represents the highest score.
+Kein Serious Games gleicht einem anderen zu 100%. So mag auch beispielsweise ein Spiel bei einer der oben aufgeführten Variablen gut abschneiden, aber (normalerweise) nicht bei allen. Um zu beurteilen, bei welcher Variablen ein Serious Game besser abschneidet, wurden die oben genannten Bewertungsfaktoren in ein 4-Punkte-Rankingsystem überführt. Dieses Ranking-System spiegelt die verschiedenen Ebenen wider, anhand derer ein Serious Game grundsätzlich bewertet werden kann. Beispielweise kann ein Spiel bzgl. seiner Aufgabenauthentizität gut abschneiden, aber wiederum schlecht im Bereich Entscheidungsauswahl. Das von uns erstellte Rankingsystem erlaubt folglich eine solche Unterscheidung.
 
-Lastly, these rankings for serious games are visualized in the form of radar charts. Figure 1 below represents a sample radar chart for the rankings of a single serious game.
+Außerdem unterliegen die dichotomen Variablen nicht dem 4-Punkte-Bewertungssystem, da diese Variablen nur ja angeben, ob ein Spiel ein gewissen Kriterium erfüllt oder nicht ("Ja/Nein"-Logik).
+
+Die verwendete 4er-Skala ist zusammen mit den bewertenden Variablen in Tabelle 2 dargestellt.
+
+![Image of Rubric](../assets/rubric.png)
+
+**Tabelle 2.**  Alle Bewertungsvariablen (qualitativ und dichotom) aufgeschlüsselt gemäß jeweiligem 4-Punkte-Bewertungssystem oder "Ja/Nein-Systematik". Rot (1) steht für die niedrigste, Grün (4) für die höchste Punktzahl.
+
+Abschließend werden die Bewertungen der betrachteten Serious Games in Form von Netzdiagrammen visualisiert. Abbildung 1 zeigt ein Beispiel-Netzdiagramm eines Spiels.
 
 ![Image of Radar Chart](../assets/radar.png)
 
-**Figure 1:** Sample Radar Chart for the rankings of a single serious game. 
+**Abbildung 1:** Beispiel-Netzdiagramm zur Bewertung eines Spiels der Good-Practice Sammlung.
 
 
-## Rubric Logic: Cross-Variable Weights
+## Logik der Bewertungssystems: Variablen Gewichtung
 
-Although the 4-score ranking system helps to rank serious games for individual evaluative variables, it fails to capture the cross-variable relevance of the individual variables in comparison to the others. As an added dimension, individual evaluative variables were assigned with “weights”. The weights are in the shape of points. An evaluative variable can either have a weight of 10 point or of 20 points. These weights were discussed and decided upon within the context of project ISGEE.
+Obwohl das 4-Punkte-Bewertungssystem hilft, Serious Games bezüglicher ihrer Variablenausprägungen zu unterscheiden, erfasst es nicht die unterschiedliche Relevanz der einzelnen Variablen untereinander. Den einzelnen Variablen wurden, je nach ihrer Bedeutung die Evaluation, unterschiedlich sowie in Form von Punkten gewichtet. Eine Bewertungs-Variable kann entweder ein Gewicht von 10 Punkten oder von 20 Punkten haben. Die Gewichtungen wurden im Rahmen eines Experten-Panels des ISGEE Projektes diskutiert und festgelegt.
 
-The variables were assigned their respective weights as shown below in Table 3. Table 3 also exemplifies the visualization of the weight points. 
+Die Gewichtung jeder Variablen sind der Tabelle 3 zu.
 
 
-| **Evaluative Variable**               | **Weight** |
+| **Evaluative Variable**               | **Gewichtung** |
 | ------------------------------------- | ---------- |
-| Task Sequence                         | 10         |
-| Fidelity of Tasks                     | 20         |
-| Quality of instructions               | 20         |
-| Instructor Involvement                | \-         |
-| Learning Outcomes Outlined & Achieved | \-         |
-| User Choice                           | 10         |
-| Cooperation (team learning)           | \-         |
+| Aufgabenreihenfolge                   | 10         |
+| Authentizität von Aufgaben            | 20         |
+| Qualität der Anweisungen              | 20         |
+| Einbeziehung Dozent*in                | \-         |
+| Lernergebnisse unternehmerischer Bildung | \-         |
+| Entscheidungsauswahl                  | 10         |
+| Kooperation                           | \-         |
 | **Total**                             | **60**     |
 
-**Table 3.**  All evaluative variables, broken down into their weights.
+**Tabelle 3.**  Alle Bewertungsvariablen, aufgeschlüsselt nach ihrer Gewichtung.
 
-## Rubric Logic: Total Points
+## Logik der Bewertungssystems: Gesamtpunkte
 
-The weights and the 4-score ranking system for the evaluative variables are further represented as combined points (total points), allowing to assign a holistic score to individual serious games, and to compare multiple games based on their total points. 
+Die Gewichtungen und das 4-Punkte-Rating für die Bewertungsvariablen werden nachfolgend immer kombiniert dargestellt (Gesamtpunktzahl). Hierdurch wird es ermöglicht jedem Serious Game einzeln eine Gesamtpunktzahl zuzuordnen sowie die Spiele anhand ihrer Gesamtpunktzahl untereinander zu vergleichen.  

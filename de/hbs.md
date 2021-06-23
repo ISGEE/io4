@@ -2,7 +2,7 @@
 layout: default
 title: Hot-Shot Business Simulation
 nav_order: 4
-parent: Serious Games
+parent: Spiele
 ---
 
 # Startup Game

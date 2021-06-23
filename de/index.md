@@ -5,6 +5,6 @@ nav_order: 2
 has_children: true
 ---
 
-# Instructions
+# Hinweis
 
- __Please click on the relevant sections in the menu on the left__
+ __Bitte klicken Sie auf die entsprechenden Abschnitte im Menü auf der linken Seite__

@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Serious Games
+title: Spiele
 nav_order: 3
 has_children: true
 parent: Deutsch 🇩🇪
 ---
 
 
-# Instructions
+# Hinweise
 
- __Please click on the games in the Table of Contents below to see the review profile of each serious game__
+ __Bitte klicken Sie auf die Spiele im Inhaltsverzeichnis unten, um das Bewertungsprofil jedes Serious Games zu sehen__
