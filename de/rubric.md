@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Rubric
+title: Rubrik
 nav_order: 3
 parent: Deutsch 🇩🇪
 ---
 
-## Die Entrepreneurship Serious Game-Rubric - Ein quantifiziertes Spielbewertungssystem:
+## Die Entrepreneurship Serious Game-Rubrik - Ein quantifiziertes Spielbewertungssystem:
 
 Der nächste Schritt auf dem Weg zur Feststellung von „Good-Practices“, beinhaltete die Erstellung und Implementierung eines quantifizierten Spielbewertungssystems.
 Um faire und valide Quantifizierungen zu erreichen, wurde eine Reihe qualifizierender Variablen ausgewählt, die für die Feststellung von Best Practices bei Serious Games geeignet erschienen. Als Grundlage für die Auswahl dieser Variablen diente die ISGEE-Literaturreview, welche zu Beginn des Projekts umfassend vorgenommen wurde.
@@ -45,7 +45,7 @@ Außerdem unterliegen die dichotomen Variablen nicht dem 4-Punkte-Bewertungssyst
 
 Die verwendete 4er-Skala ist zusammen mit den bewertenden Variablen in Tabelle 2 dargestellt.
 
-![Image of Rubric](../assets/rubric.png)
+![Image of Rubrik](../assets/rubric.png)
 
 **Tabelle 2.**  Alle Bewertungsvariablen (qualitativ und dichotom) aufgeschlüsselt gemäß jeweiligem 4-Punkte-Bewertungssystem oder "Ja/Nein-Systematik". Rot (1) steht für die niedrigste, Grün (4) für die höchste Punktzahl.
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Submite a Game
+title: Ein Spiel einreichen
 nav_order: 3
 parent: Deutsch 🇩🇪
 ---
