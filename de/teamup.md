@@ -3,6 +3,7 @@ layout: default
 title: TeamUp
 nav_order: 3
 parent: Spiele
+grand_parent: Deutsch 🇩🇪
 ---
 
 # TeamUp

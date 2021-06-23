@@ -3,6 +3,7 @@ layout: default
 title: Biz-E-Bee
 nav_order: 3
 parent: Spiele
+grand_parent: Deutsch 🇩🇪
 ---
 
 # Biz-E-Bee

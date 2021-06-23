@@ -3,6 +3,7 @@ layout: default
 title: Hot-Shot Business Simulation
 nav_order: 3
 parent: Spiele
+grand_parent: Deutsch 🇩🇪
 ---
 
 # Startup Game
