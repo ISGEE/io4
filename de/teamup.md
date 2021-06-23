@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TeamUp
+title: TeamUp_de
 nav_order: 4
 parent: Spiele
 ---

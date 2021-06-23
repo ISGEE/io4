@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hot-Shot Business Simulation
+title: Hot-Shot Business Simulation_de
 nav_order: 4
 parent: Spiele
 ---
