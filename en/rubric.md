@@ -2,6 +2,7 @@
 layout: default
 title: Rubric
 nav_order: 3
+parent: Introduction
 ---
 
 # The Entrepreneurship Serious Game Rubric – A Quantified Game Review System:

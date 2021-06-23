@@ -2,6 +2,7 @@
 layout: default
 title: Submite a Game
 nav_order: 3
+parent: Introduction
 ---
 
 # Serious Game Submissions  
