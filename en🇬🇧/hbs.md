@@ -16,7 +16,7 @@ After picking a shop and naming it, use the Hot Shot Business tools to begin pre
 HBS also exposes the user to in-game financial management. Users start with 2500 dollars in their account, but also need 2000 more to achieve the first few targets. HBS lets the user decide to either loan this missing amount from a bank or take on an investor. The first option means they need to pay out a sum every month. However, if the user chooses to give away part of their business, they will also have to give away some of their profit.
 Next, it's time to decide on what products or services users offer in their store. Before making any purchase, HBS offers a way to see the needs of the business. This way the user can find out what their customers prefer and invest accordingly. Lastly, users start renting some machines or stands before selling their product.
 
-![Image of Simbiz](assets/HBS.jpg)
+![Image of Simbiz](../assets/HBS.jpg)
 
 ## Score: Rank
 
@@ -24,7 +24,7 @@ Next, it's time to decide on what products or services users offer in their stor
 
 **_All Evaluative Variables_**
 
-![Image of bizebee](assets/hbsscore.png)
+![Image of bizebee](../assets/hbsscore.png)
 
 ## Score: Weight
 
