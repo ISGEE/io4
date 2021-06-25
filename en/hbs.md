@@ -3,6 +3,7 @@ layout: default
 title: Hot-Shot Business Simulation
 nav_order: 4
 parent: Serious Games
+grand_parent: English 🇬🇧
 ---
 
 # Startup Game

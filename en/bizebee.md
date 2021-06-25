@@ -3,6 +3,7 @@ layout: default
 title: Biz-E-Bee
 nav_order: 4
 parent: Serious Games
+grand_parent: English 🇬🇧
 ---
 
 # Biz-E-Bee
