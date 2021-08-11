@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Español 🇪🇸 🇬
+title: Español 🇪🇸
 nav_order: 2
 has_children: true
 ---
