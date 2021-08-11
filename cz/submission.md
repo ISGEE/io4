@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Submit a Game
+title: Odeslání hry
 nav_order: 3
-parent: English 🇬🇧
+parent: Czech 🇨🇿
 ---
 
-# Serious Game Submissions  
+# Přihlášky vážných her
 
-If you are the creator of a serious game in the field of entrepreneurship education, or a user of one, please click on the submissions button below and fill out our form to submit your game. We want to keep this platform open to any serious game within the domain of entrepreneruship education and want to actively maintain a collection of good practices for future stakeholders to make use of. 
+Pokud jste tvůrcem seriózní hry v oblasti podnikatelského vzdělávání nebo uživatelem nějaké hry, klikněte na tlačítko pro přihlášení níže a vyplňte náš formulář pro přihlášení hry. Chceme, aby tato platforma zůstala otevřená pro všechny seriózní hry v oblasti podnikatelského vzdělávání, a chceme aktivně udržovat sbírku osvědčených postupů, kterou budou moci využívat budoucí zainteresované strany. 
 
 [Submit Game](http://google.com/){: .btn .isgee-green }
