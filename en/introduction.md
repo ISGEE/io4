@@ -15,7 +15,7 @@ The project “Implementing Serious Games in Entrepreneurship Education” (ISGE
 
 ### Who works on ISGEE?
 
-The consortium of ISGEE is constituted by the University of Szeged (lead partner), Univations GmbH, West University of Timișoara, Expertissa Timișoara, Technical University of Ostrava, & STUCOM. It is funded by the Erasmus+ programme of the European Commission to increase collaboration between educational institutions in the European Union and to find innovative solutions for joint challenges in education. ISGEE started in September 2019 and will be terminated in September 2021.
+The consortium of ISGEE is constituted by the University of Szeged (lead partner), Univations GmbH, West University of Timișoara, Expertissa Timișoara, Technical University of Ostrava, & STUCOM. It is funded by the Erasmus+ programme of the European Commission to increase collaboration between educational institutions in the European Union and to find innovative solutions for joint challenges in education. ISGEE started in September 2018 and will be terminated in September 2021.
 
 ### Aim of the Project
 

@@ -15,7 +15,7 @@ Das Projekt "Implementing Serious Games in Entrepreneurship Education" (ISGEE) i
 
 ### Wer wirkt am ISGEE-Projekt mit?
 
-Das Konsortium von ISGEE besteht aus der Universität Szeged (Ungarn, Projektleitung), Univations GmbH (Deutschland), West University of Timișoara (Rumänien), Expertissa Timișoara (Rumänien), Technische Universität Ostrava (Tschechische Republik) und STUCOM (Spanien). Es wird durch das Erasmus+ Programm finanziert, um die Zusammenarbeit zwischen Bildungseinrichtungen in der Europäischen Union zu stärken und innovative Lösungen für gemeinsame Herausforderungen in der Bildung zu finden. ISGEE hat eine Laufzeit von 3 Jahren (Start: September 2019)
+Das Konsortium von ISGEE besteht aus der Universität Szeged (Ungarn, Projektleitung), Univations GmbH (Deutschland), West University of Timișoara (Rumänien), Expertissa Timișoara (Rumänien), Technische Universität Ostrava (Tschechische Republik) und STUCOM (Spanien). Es wird durch das Erasmus+ Programm finanziert, um die Zusammenarbeit zwischen Bildungseinrichtungen in der Europäischen Union zu stärken und innovative Lösungen für gemeinsame Herausforderungen in der Bildung zu finden. ISGEE hat eine Laufzeit von 3 Jahren (Start: September 2018)
 
 ### Ziel des Projekts
 
