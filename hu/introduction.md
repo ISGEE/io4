@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Utasítások
+title: Áttekintés
 nav_order: 2
 parent: Hungarian 🇭🇺
 ---
