@@ -32,18 +32,6 @@ Als nächstes muss entschieden, welche Produkte oder Dienstleistungen der Benutz
 
 ## Ergebnis: Gewichtung
 
-|         Evaluative Variables          |  Weight  |
-| :-----------------------------------: | :------: |
-|             Task sequence             |    10    |
-|           Fidelity of tasks           |    15    |
-|        Quality of instructions        |    20    |
-|        Instructor involvement         |    -     |
-| Learning outcomes outlined & achieved |    -     |
-|              User choice              |   7.5    |
-|      Cooperation (team learning)      |    -     |
-|               **Total**               | **52.5** |
-
-
 | **Evaluative Variable**               | **Gewichtung** |
 | ------------------------------------- | ---------- |
 | Aufgabenreihenfolge                   | 10         |
